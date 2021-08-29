@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+[![aWoWed](https://github-readme-stats.vercel.app/api?username=aWoWed&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/aWoWed/aWoWed)
+[![aWoWed-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=aWoWed&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/aWoWed/aWoWed)
+
+<p align="center"> 
+  <a href="mailto:andrey_roland@hotmail.com">
+    <img src="https://github.com/aWoWed/aWoWed/blob/master/assets/email.svg" alt="Mail me" style="vertical-align:top; margin:4px" height=32>
+  </a>
+  <a href="https://t.me/aWoWed">
+    <img src="https://github.com/aWoWed/aWoWed/blob/master/assets/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px" height=32>
+  </a>
+  <a href="https://steamcommunity.com/id/19serg">
+    <img src="https://github.com/aWoWed/aWoWed/blob/master/assets/steam.svg" alt="Steam" style="vertical-align:top; margin:4px" height=32>
+  </a>
+</p>
+
 <!--
 **aWoWed/aWoWed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
