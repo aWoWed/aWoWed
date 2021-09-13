@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![aWoWed](https://github-readme-stats.vercel.app/api?username=aWoWed&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/aWoWed/aWoWed)
-[![aWoWed-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=aWoWed&count_private=true&include_all_commits=true&theme=midnight-purple&show_icons=true&layout=compact)](https://github.com/aWoWed/aWoWed)
 
 <p align="center"> 
   <a href="mailto:andrey_roland@hotmail.com">
