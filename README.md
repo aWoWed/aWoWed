@@ -11,9 +11,6 @@
   <a href="https://t.me/aWoWed">
     <img src="https://github.com/aWoWed/aWoWed/blob/main/assets/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px" height=32>
   </a>
-  <a href="https://steamcommunity.com/id/19serg">
-    <img src="https://github.com/aWoWed/aWoWed/blob/main/assets/steam.svg" alt="Steam" style="vertical-align:top; margin:4px" height=32>
-  </a>
 </p>
 
 <!--
